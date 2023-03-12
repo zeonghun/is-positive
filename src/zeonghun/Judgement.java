@@ -3,6 +3,8 @@ package zeonghun;
 /**
  * @brief 양수/음수/0 판별하는 메소드
  * 
+ * @param num 판단할 숫자
+ * 
  * @author jhkim
  * @date 230310
  */

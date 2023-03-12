@@ -3,7 +3,7 @@ package zeonghun;
 import java.util.Scanner;
 
 /**
- * @brief 양수/음수/0 판별하는 클래스
+ * @brief judgement메소드를 호출하는 Main클래스
  * 
  * @author jhkim
  * @date 230310
